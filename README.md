@@ -6,3 +6,6 @@ smoking-detection for caffe
 pycaffe
 dlib
 python2.7
+
+
+![image](https://github.com/maxuehao/Smokeing-detection/blob/master/demo.png)
